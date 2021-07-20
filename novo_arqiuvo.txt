@@ -1,1 +1,2 @@
 arquivo branchA
+mais uma linha
